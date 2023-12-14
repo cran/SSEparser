@@ -1,0 +1,15 @@
+e2eca844ed00055bb44dc9e36a13a929 *DESCRIPTION
+02db8058e184247c2daf8f1af26f5bd1 *LICENSE
+d676329dde6118ebd222866324ed7467 *NAMESPACE
+e73fb5f92efc801b19c7911178b4e61b *NEWS.md
+6adc2e0bc04f2d048d4490404a6cf174 *R/SSEParser.R
+0afd683bf3f8efa215b99a569ec8771a *R/parse_sse.R
+cf794928715019cf81bd51d467156178 *R/utils-pipe.R
+104f1ef56cc048d870eb884cfba9dd21 *README.md
+3ab1b98d428d3f383d52cbabcd9d6b4e *inst/first_attempt.R
+5955fd1a39fc3f31d07b22ef544391de *inst/openai-stream.R
+13771694e76a39a1a6c8a5a6c7859be1 *man/SSEparser.Rd
+ce58c869391dce4900993638e5b97886 *man/parse_sse.Rd
+29ee7383caa7fc8c14f52bd035509064 *man/pipe.Rd
+cdbf5079bad83d46faf858462dc2906a *tests/testthat.R
+3871ba091cb2407eb4761188151dc680 *tests/testthat/test-SSEparser.R
